@@ -19,7 +19,7 @@ sidebar:
     github: randhipp
     gitlab: randhi.pp
     bitbucket:
-    twitter: '@randhipp'
+    twitter: '@ranrandhi'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -39,7 +39,7 @@ sidebar:
         link:
         
 career-profile:
-    title: Career Profile
+    title: System Engineer
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
