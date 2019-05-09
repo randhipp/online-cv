@@ -7,43 +7,37 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Randhi Pratama Putra
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
+    email: randhi.pp@gmail.com
+    phone: 0878 5345 6600
+    website: jombangdigital.net #do not add http://
+    linkedin: randhi.pp
+    github: randhipp
+    gitlab: randhi.pp
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@randhipp'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Indonesia
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: Photography
         link:
 
-      - item: Snowboarding
+      - item: Coffee Brewing
         link:
-
-      - item: Cooking
-        link:
-
+        
 career-profile:
     title: Career Profile
     summary: |
