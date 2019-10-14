@@ -39,7 +39,7 @@ sidebar:
         link:
         
 career-profile:
-    title: System Engineer
+    title: IT Engineer
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -50,75 +50,54 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: -
+      university: ITATS - Institut Teknologi Adi Tama Surabaya
+      time: 2007 - 2008
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        S1 Teknik Informatika
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: -
+      university: STIKOM - Sekolah Tinggi Ilmu Komputer Surabaya
+      time: 2006 - 2007
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        S1 Sistem Informasi
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: IT Support & Software Engineer
+      time: 2017 - Present
+      company: Mulur Group, Jombang - Jawa Timur
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Di Mulur saya berkesempatan untuk mengawal proses transformasi program POS dan Akuntasi dari program lama yang menggunakan FoxPro Desktop Based menjadi MySql Web-Based dengan framework Laravel. Saya juga membuat beberapa automation script seperti Email Reminder untuk Owner & Management, Data Backup, dsb. Saat ini saya juga sedang mengembangkan Mobile App khusus internal Management menggunakan Fluter.
 
-          - Bullet point
-          - Bullet point
+        Beberapa tools yang saya pakai di Mulur
+          - VSCode / Android Studio
+          - GitHub / GitLab
+          - NPM
+          - Composer
+          - Laravel Artisan
+          - HeidySql
+          - Laragon / Xampp
+          - Visual Fox Pro Driver
+          - VMware / VirtualBox
+          - Mikrotik
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: IT Support, Surveyor/Drafter, Optical Fiber OSP Planning SPV
+      time: 2007 - 2017
+      company: PT. Indo Mulya, Sidoarjo - Jawa Timur
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Di Indo Mulya, saya mengawali sebagai IT Support selama 2 tahun dengan beberapa tugas seperti IT Hardware Maintenance, Zimbra Collaboration Suite Installer & Administrator, Wordpress Web Developer, dsb.
+        Dalam perjalanan karir saya, saya juga ditugaskan sebagai surveyor/drafter untuk project OSP (Out Side Plant) Optical Fiber Cable dalam project XL, Indosat, dan Telkom di seluruh Indonesia.
+        
+        Dikarenakan project semakin banyak dan mencakup area yang luas, saya diberikan beberapa team surveyor/drafter.
+        Optical Fiber OSP Planning SPV adalah jabatan terakhir saya sebelum akhirnya Resign di tahun 2017 dikarenakan ingin fokus di bidang IT khususnya Software Engineer.
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Beberapa tools yang saya pakai di Indo Mulya
+          - AutoCAD
+          - Garmin GPS
+          - GIS
+          - Zimbra Collaboration Suite
+          - Mikrotik
+          - VMWare ESX
 
 projects:
     title: Projects
