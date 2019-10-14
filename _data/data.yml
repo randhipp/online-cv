@@ -50,13 +50,13 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: -
+    - degree: none
       university: ITATS - Institut Teknologi Adi Tama Surabaya
       time: 2007 - 2008
       details: |
         S1 Teknik Informatika
 
-    - degree: -
+    - degree: none
       university: STIKOM - Sekolah Tinggi Ilmu Komputer Surabaya
       time: 2006 - 2007
       details: |
